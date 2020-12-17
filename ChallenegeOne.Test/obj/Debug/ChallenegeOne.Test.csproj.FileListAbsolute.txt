@@ -1,0 +1,16 @@
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallenegeOne.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallenegeOne.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallenegeOne.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallenegeOne.Test\bin\Debug\ChallenegeOne.Test.dll
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallenegeOne.Test\bin\Debug\ChallenegeOne.Test.pdb
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallenegeOne.Test\bin\Debug\KomodoCafeRepository_Pattern.dll
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallenegeOne.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallenegeOne.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallenegeOne.Test\bin\Debug\KomodoCafeRepository_Pattern.pdb
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallenegeOne.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallenegeOne.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallenegeOne.Test\obj\Debug\ChallenegeOne.Test.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallenegeOne.Test\obj\Debug\ChallenegeOne.Test.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallenegeOne.Test\obj\Debug\ChallenegeOne.Test.csproj.CopyComplete
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallenegeOne.Test\obj\Debug\ChallenegeOne.Test.dll
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallenegeOne.Test\obj\Debug\ChallenegeOne.Test.pdb

@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallengeFour.Console\bin\Debug\ChallengeFour.Console.exe.config
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallengeFour.Console\bin\Debug\ChallengeFour.Console.exe
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallengeFour.Console\bin\Debug\ChallengeFour.Console.pdb
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallengeFour.Console\obj\Debug\ChallengeFour_Console.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallengeFour.Console\obj\Debug\ChallengeFour_Console.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallengeFour.Console\obj\Debug\ChallengeFour.Console.exe
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallengeFour.Console\obj\Debug\ChallengeFour.Console.pdb
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallengeFour.Console\bin\Debug\ChallengeFour_Repository.dll
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallengeFour.Console\bin\Debug\ChallengeFour_Repository.pdb
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallengeFour.Console\obj\Debug\ChallengeFour_Console.csproj.CopyComplete

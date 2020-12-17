@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallenegeOne.Console\obj\Debug\ChallenegeOne_Console.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallenegeOne.Console\obj\Debug\ChallenegeOne_Console.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallenegeOne.Console\bin\Debug\ChallenegeOne.Console.exe.config
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallenegeOne.Console\bin\Debug\ChallenegeOne.Console.exe
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallenegeOne.Console\bin\Debug\ChallenegeOne.Console.pdb
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallenegeOne.Console\obj\Debug\ChallenegeOne.Console.exe
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallenegeOne.Console\obj\Debug\ChallenegeOne.Console.pdb
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallenegeOne.Console\bin\Debug\KomodoCafeRepository_Pattern.dll
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallenegeOne.Console\bin\Debug\KomodoCafeRepository_Pattern.pdb
+C:\ElevenFiftyProjects\GoldBadgeConsoleApplicationChallenges\ChallenegeOne.Console\obj\Debug\ChallenegeOne_Console.csproj.CopyComplete
